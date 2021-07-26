@@ -1,0 +1,10 @@
+
+OPERATING SYSTEMS FUNCTIONS:  
+
+The operating system communicates between the various instructions given by the user 
+so that they are on par with each other. The operating system manages input and output 
+by running the program that creates the output from user input. Managing input and output 
+is achieved by coordinating and assigning functions of the input and output devices when 
+running one or more applications. 
+
+
