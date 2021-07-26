@@ -5,3 +5,9 @@ so that they are on par with each other. The operating system manages input and 
 by running the program that creates the output from user input. Managing input and 
 output is achieved by coordinating and assigning functions of the input and output 
 devices when running one or more applications. 
+
+Scheduling of resources and jobs: The operating system prepares the list of tasks to be 
+performed for each computer system device. The operating system decides which device to 
+use for which task. The order that these tasks are completed by the scheduling progeams 
+and based on the priority of the device assigned by the user. 
+
