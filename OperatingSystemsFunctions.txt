@@ -11,3 +11,8 @@ performed for each computer system device. The operating system decides which de
 use for which task. The order that these tasks are completed by the scheduling progeams 
 and based on the priority of the device assigned by the user. 
 
+The Windows operating system allows the user to search for an application in various ways. 
+The user can either select All Apps for an alphabetized list of all applications from the 
+Start Menu or type the first letter up to a few to find the application you need and select 
+its icon. The Search in the Windows operating system will also show a short list of 
+websites related to your search. 
